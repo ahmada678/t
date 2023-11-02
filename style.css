@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+.all{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+  background-color: black;
+ height: 10vh;
+ width: 100vw;
+}
